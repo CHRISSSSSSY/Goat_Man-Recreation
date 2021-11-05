@@ -6,6 +6,7 @@ TagManager:
   tags:
   - cuibap
   - goatman
+  - QuitButton
   layers:
   - Default
   - TransparentFX
